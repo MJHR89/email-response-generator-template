@@ -1,4 +1,4 @@
-# Building Conversational AI Apps in Slack - workshop final app
+# Building Conversational AI Apps in Slack
 
 This is a project used for demonstration purposes for the Building modular Slack apps: Integrating generative AI workshop.
 
@@ -27,11 +27,9 @@ The CLI is optimized to work with this editor, so we highly recommend using it (
 ### Test in a workspace
 Free sandboxes to test your app available by signing up to the developer program. Plus so much more support and developer tools! Grab yours [here](https://api.slack.com/developer-program)!
 
-### Join the workshop's channel
-Search for #tdx24-ai-app-workshop where we'll be sharing all the instructions and code snippets for the workshop. If you have any question please leave it in channel.
 
 ### Create a Personal Channel for Testing
-Once you’ve joined the workspace, create a channel named testing-yourName
+In your workspace, create a channel named testing-yourName
 
 ### OpenAI keys
 You can create them [here](https://platform.openai.com/api-keys).
@@ -43,21 +41,15 @@ Start by cloning this repository, to build at your own rhythm:
 
 ```zsh
 # Clone this project onto your machine
-$ slack create my-app -t MJHR89/email-response-generator-workshop
+$ slack create my-app -t MJHR89/email-response-generator-template
 
 # Change into the project directory
 $ cd my-app
 ```
 
-## The Slides
-Step by step instructions from the [presentation](https://jmp.sh/LoOS103Y)
-
 ## JOIN THE DEVELOPER PROGRAM
 Sign up for the developer program [here](https://api.slack.com/developer-program)!
 Events, newsletter, sandboxes, and so much more!!
-
-## Feedback
-Leave us some feedback about the workshop session at TDX24 [here](https://www.surveymonkey.com/r/TDX24HOW). We would love to hear from you!
 
 ## Finished project
 Find it [here](https://github.com/MJHR89/email-response-generator-workshop-final-app)
